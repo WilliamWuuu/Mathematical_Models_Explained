@@ -1,12 +1,12 @@
 # Mathematical Models Explained
-This repository contains a few notes I took when preparing for the Mathematical Models Competition. 🤗
+This repository contains a few notes I took when preparing for the Mathematical Modeling Competition. 🤗
 
 ## Updating Log 📜
 - [x] [2024.9.4] Init the repository.
 
 ## Contents
 
-|序号|算法和模型|
+|序号|算法和模型 (Algorithms & Models)|
 |---|---|
 |1|[层次分析法 (The analytic hierarchy process, AHP)](https://github.com/WilliamWuuu/MathematicalModelsExplained/tree/main/AHP)|
 |2|[基本分类算法 (Classification)](https://github.com/WilliamWuuu/MathematicalModelsExplained/tree/main/Classification)|
