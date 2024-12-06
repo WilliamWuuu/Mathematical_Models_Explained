@@ -4,7 +4,7 @@ This repository contains a few notes I took when preparing for the Mathematical 
 ## Updating Log 📜
 - [x] [2024.9.4] Init the repository.
 
-## Contents
+## Catalogue
 
 |序号|算法和模型 (Algorithms & Models)|
 |---|---|
