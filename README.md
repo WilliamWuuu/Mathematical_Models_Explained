@@ -3,6 +3,8 @@ This repository contains a few notes I took when preparing for the Mathematical 
 
 ## Updating Log 📜
 - [x] [2024.9.4] Init the repository.
+- [x] [2025.1.11] Upload.
+- [x] [2025.1.18] Upload.
 
 ## Catalogue
 
@@ -23,3 +25,4 @@ This repository contains a few notes I took when preparing for the Mathematical 
 |13|[旅行商问题 (Traveling Salesman Problem, TSP)](https://github.com/WilliamWuuu/MathematicalModelsExplained/tree/main/TSP)|
 |14|[优劣解距离法 (Technique for Order Preference by Similarity to an Ideal Solution, TOPSIS)](https://github.com/WilliamWuuu/MathematicalModelsExplained/tree/main/TOPSIS)|
 |15|[时间序列分析 (Time Series Analysis)](https://github.com/WilliamWuuu/MathematicalModelsExplained/tree/main/TimeSeriesAnalysis)|
+|16|[隐马尔可夫模型 (Hidden Markov Models, HMM)](https://github.com/WilliamWuuu/Mathematical_Models_Explained/tree/main/HMM)|
